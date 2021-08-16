@@ -4,7 +4,9 @@
 
 **PRO TIP**: Do not copy and paste code from either online sources or earlier assignments. Type it in. This will help you remember the Java constructs and will make later sections of the program easier.
 
-Create a file named **HelloWorld.java** and save it in your APCS folder. Note that the **H** is upper case. In that file, write and this program:
+**Edit:** Fixed filename 
+
+Create a file named **Hello.java** and save it in your APCS folder. Note that the **H** is upper case. In that file, write and this program:
 
 ```java
 public class Hello{
