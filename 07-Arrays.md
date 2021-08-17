@@ -23,7 +23,7 @@ int[] a;
 a = new int[5];
 ```
 
-The first one is stored in **a[0]** the fifth in **a[5]**. If you try to
+The first one is stored in **a[0]** the fifth in **a[4]**. If you try to
 access an array out of bounds say, a[-1] or a[5] in this case, you'll
 get an error. You also can't print it all in one shot like you can in
 Python or Java. The chapter has the rest of the details.
