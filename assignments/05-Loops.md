@@ -11,6 +11,6 @@ You will eventually need to understand both for and while loops in class, but fo
 
 # Required Work:
 
-Now Try: **Codingbat Loops: (smallestX  sumAtoB  sumAtoBcountingByC  anyInRangeDivisibleByValue )**.
+Now Try: **Codingbat Loops: (smallestX  sumAtoB    sumAtoBcountingByC  isPerfectSquare  anyInRangeDivisibleByValue )**.
 
 [codingbat.com/home/konstans@stuy.edu/summerapcs](https://codingbat.com/home/konstans@stuy.edu/summerapcs)
