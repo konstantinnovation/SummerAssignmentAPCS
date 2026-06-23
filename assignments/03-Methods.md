@@ -198,7 +198,7 @@ Now you can start to solve codingbat questions that your teacher will verify you
 * If you forget to log in, you have to do them again. 
 * Important: Only submit work that you write. 
 * Do not do all of them at once, please do the reading prior to each section even if you think you know some java. 
-* Now complete the section **Functions with no loops/conditionals (average3, force, roundToPlace, sumOfSines)**.
+* Now complete the section **Functions with no loops/conditionals**.
 
 **Summer Problem Set**: [codingbat.com/home/konstans@stuy.edu/summerapcs](https://codingbat.com/home/konstans@stuy.edu/summerapcs)
 
