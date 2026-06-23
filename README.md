@@ -42,6 +42,8 @@ To the many stuy students that only do things that are checked by the teacher: *
 
 6. [Arrays](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/assignments/06-Arrays.md)
 
-7. You should have now completed all of the problems here (except the optional Strings section): [codingbat.com/home/konstans@stuy.edu/summerapcs](https://codingbat.com/home/konstans@stuy.edu/summerapcs)
+7. [String](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/assignments/07-Strings.md)
 
-8. [Final Program](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/assignments/xx-FinalSteps.md)
+8. You should have now completed all of the problems here [codingbat.com/home/konstans@stuy.edu/summerapcs](https://codingbat.com/home/konstans@stuy.edu/summerapcs)
+
+9. [Final Program](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/assignments/xx-FinalSteps.md)
