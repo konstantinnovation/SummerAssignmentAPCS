@@ -16,7 +16,7 @@ You may skip this unless you are trying to get ahead!
 
 # Required Work:
 
-Now Try: **Loops with Strings:** (isVowel,  countVowels,  stringDupe, isAlmostEqual)
+Now Try: **Loops with Strings**
 
 After this you should have completed the entire set of coding bat problems. 
 
