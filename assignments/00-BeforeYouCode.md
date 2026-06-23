@@ -23,8 +23,20 @@ Hello.txt just looks like Hello and the icon is a text file.
 
 * [Pulsar](https://pulsar-edit.dev/) is the continuation of the popular editor Atom.   
   * It can be downloaded here [https://pulsar-edit.dev/download.html](https://pulsar-edit.dev/download.html)
+ 
+* fresh - a simple command line text editor like nano/micro, but with more features and easier to use shortcuts. [get Fresh](https://getfresh.dev/)
+ 
+Do not use vscode, Eclipse, and similar! 
+
+Do not use vscode, Eclipse, and similar! 
+
+### Do not use vscode, Eclipse, and similar! 
+
+It was written three times for a reason. 
 
 # Why Choose a Simpler Text Editor?
+
+## Your primary goal is to learn computer science.
 
 Sophisticated IDEs (like Eclipse, JetBrains products, or VSCode) often feature automatic code generation. While these tools can be useful in advanced scenarios, they tend to distract learners and sometimes autocomplete elements before students fully grasp them.
 Why you should use a (code friendly) plain text editor:
