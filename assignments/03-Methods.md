@@ -193,7 +193,7 @@ Finally, a method can call another method:
 # Required Work: 
 Now you can start to solve codingbat questions that your teacher will verify you completed.
 
-* Go to [codingbat.com](codingbat.com/home/konstans@stuy.edu/summerapcs)
+* Go to [codingbat.com](http://codingbat.com/home/konstans@stuy.edu/summerapcs)
 * Please create an account using your stuy.edu email address. Problems you complete WHILE LOGGED IN will be saved to your account. 
 * If you forget to log in, you have to do them again. 
 * Important: Only submit work that you write. 
