@@ -30,13 +30,13 @@ To the many Stuy students that only do things that are checked by the teacher: *
 
 **PRO TIP**: Do not copy and paste code from online sources or earlier assignments. Even if you are copying an example to test: typing valid java code will help you remember the Java constructs and will make later sections of the course easier.
 
-0. [Before You Code / Setting up your computer](https://github.com/konstantinnovation/SummerAssignmentAP Computer Science/blob/main/assignments/00-BeforeYouCode.md)
+0. [Before You Code / Setting up your computer](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/assignments/00-BeforeYouCode.md)
 
-1. [Hello World](https://github.com/konstantinnovation/SummerAssignmentAP Computer Science/blob/main/assignments/01-HelloWorld.md)
+1. [Hello World](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/assignments/01-HelloWorld.md)
 
-2. [Data Types and Assignment Statements](https://github.com/konstantinnovation/SummerAssignmentAP Computer Science/blob/main/assignments/02-DataTypesAndAssignments.md)
+2. [Data Types and Assignment Statements](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/assignments/02-DataTypesAndAssignments.md)
 
-3. [Methods](https://github.com/konstantinnovation/SummerAssignmentAP Computer Science/blob/main/assignments/03-Methods.md)
+3. [Methods](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/assignments/03-Methods.md)
 
 4. [Booleans and Conditionals](https://github.com/konstantinnovation/SummerAssignmentAPCS/blob/main/assignments/04-BooleansAndConditionals.md)
 
