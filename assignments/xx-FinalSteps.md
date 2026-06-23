@@ -29,4 +29,4 @@ public static int nthPrime(int n){
 ```
 # Submission
 
-Please have a digital copy accessible (in your email or flash drive) and have it handy when your teacher asks for it.
+Please have a digital copy accessible. You will need to have it handy when your teacher asks for it.
