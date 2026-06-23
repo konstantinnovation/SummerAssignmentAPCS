@@ -14,6 +14,6 @@
 # Required Work
 Remember: If you forget to log in, you have to do them again. 
 
-Now Try the codingbat section: ** Conditionals **.
+Now Try the codingbat section: **Conditionals**.
 
 [codingbat.com/home/konstans@stuy.edu/summerapcs](https://codingbat.com/home/konstans@stuy.edu/summerapcs)
