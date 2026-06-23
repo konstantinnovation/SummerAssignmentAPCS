@@ -12,7 +12,7 @@ This pre-coursework is designed to ensure that all students entering the APCS Ho
 
 This is not to say that all students will have the same experience while completing the pre-coursework. It may be the case that you struggle with it, but **it is better to struggle a little over the summer, when you are not taking a full course load**. 
 
-#Resources
+# Resources
 
 ## Java textbook that we suggest
 * [CS Awesome](https://runestone.academy/ns/books/published/csawesome/index.html)
