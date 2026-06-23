@@ -18,8 +18,8 @@ create it.
 
 Now Try All of the Array Problems: 
 
-**Loops with Arrays : largestValue  indexOfLargestValue countEvens  countAboveAverage sum28  scoresIncreasing**
+**Loops with Arrays**
 
-**Modify an Array : fixGradesArray**
+**Modify an Array**
 
 [codingbat.com/home/konstans@stuy.edu/summerapcs](https://codingbat.com/home/konstans@stuy.edu/summerapcs)
