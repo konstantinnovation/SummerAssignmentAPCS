@@ -24,16 +24,17 @@ Hello.txt just looks like Hello and the icon is a text file.
 * [Pulsar](https://pulsar-edit.dev/) is the continuation of the popular editor Atom.   
   * It can be downloaded here [https://pulsar-edit.dev/download.html](https://pulsar-edit.dev/download.html)
 
-* We will also have [VSCodium](https://vscodium.com/) installed in the labs. Note: VSCodium is identical to VS Code with the single biggest difference: VSCodium doesn't track your usage data. You can [learn more about it here](https://itsfoss.com/vscodium/)
-  * This is more complex than Pulsar.
-  * You can [download vscodium from here](https://github.com/VSCodium/vscodium/releases) (Be careful to choose the correct download item)
-    * Note that the exact version number (1.x.y.z) is 1.8ish right now but will change over time. The format around the version should be the same.
-    * For windows you want the x64 msi file such as "VSCodium-x64-1.x.y.z.msi"  
-    * For mac you want the x64 dmg file (OR arm64 if you have an M1 chip) such as "VSCodium.x64.1.x.y.z.dmg" OR "VSCodium.arm64.1.x.y.z.dmg"
-    * For linux users, you probably need the x64 tar.gz such as "VSCodium-linux-x64-1.x.y.z.tar.gz"
+# Why Choose a Simpler Text Editor?
 
+Sophisticated IDEs (like Eclipse, JetBrains products, or VSCode) often feature automatic code generation. While these tools can be useful in advanced scenarios, they tend to distract learners and sometimes autocomplete elements before students fully grasp them.
+Why you should use a (code friendly) plain text editor:
 
+- Using simpler tools forces you to understand each line of code you write yourself.
+- When building code step-by-step without pre-filled options, you develop a stronger grasp of programming fundamentals.
+- The absence of complex IDE features minimizes distractions from managing the software environment itself.
+- Text editors provide direct error messages, helping you pinpoint mistakes in filename syntax or file structure quickly and accurately. They don't mask issues with automatic fixes.
 
+This isn't about using basic tools like Notepad or Nano. A good text editor should include helpful features such as syntax highlighting and bracket matching—exactly what Pulsar offers!
 
 # Command Line Interface
 
