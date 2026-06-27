@@ -4,7 +4,7 @@ It is important in computer science to follow instructions carefully. **Please r
 
 AP Computer Science Honors is an elective that is far more rigorous than the required foundations course. APCS requires a lot more work, and can be very difficult at times. 
 
-If your goal is to "get it done quickly" instead of "learn the material" you are going to have to adjust your expectations for this course.
+If your goal is to "get it done quickly" instead of "learn the material" you are going to have to adjust your expectations for this course. Assignments are meant to teach you things, if you complete them without thought or intent, that gains you nothing and it was a waste of time and of an opportunity.
 
 This pre-coursework is designed to ensure that all students entering the APCS Honors course have the same foundational knowledge. The goal is to give all students the opportunity to succeed, no matter what their intro experience was like.
 
