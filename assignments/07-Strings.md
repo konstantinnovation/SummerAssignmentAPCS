@@ -1,9 +1,5 @@
 # Strings
 
-# THIS SECTION HAS BEEN DESIGNATED AS OPTIONAL. 
-
-You may skip this unless you are trying to get ahead!
-
 # Reading
 [CSAwesome 2.6 String Basics](https://runestone.academy/ns/books/published/csawesome/Unit2-Using-Objects/topic-2-6-strings.html) 
 (All of 2.6)
