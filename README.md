@@ -21,7 +21,7 @@ This is not to say that all students will have the same experience while complet
 * [Think Java Downy & Mayfield](http://greenteapress.com/thinkjava6/html/index.html)
 * [Think Java Interactive Text Version](https://books.trinket.io/thinkjava/)
 * [CS - Sedgewick / Wayne](https://introcs.cs.princeton.edu/java/)
-
+* [Interactive Java Visualizer](https://pythontutor.com/java.html#)
 
 # Assignments
 To the many Stuy students that only do things that are checked by the teacher: **Many of the questions are for self assessment**. 
